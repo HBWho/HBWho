@@ -18,8 +18,8 @@
 
 ## 🚀 Featured Projects
 
-### 🛎️ [NeoBell](https://github.com/HBWho/NeoBell) *(in progress)*
-**An intelligent, secure smart doorbell system for modern apartments**  
+### 📷 [NeoBell](https://github.com/HBWho/NeoBell) *(in progress)*
+**An intelligent, secure smart doorbell system with delivery secure compartment for modern apartments**  
 > Android app (Flutter), edge AI (LLM, OCR, face recognition), and IoT—all integrated for visitor & package management.  
 > [📝 NeoBell Project Documentation (Notion)](https://utopian-asterisk-ca0.notion.site/NeoBell-1deb3933ee48801ea5b1c806137cb59d)
 >
@@ -113,6 +113,6 @@ A 2D game fully built in C++ for learning Programming Techniques and OOP.
 
 ---
 
-![Purple Wormhole Banner](https://cdn.discordapp.com/attachments/1249131937033879683/1374556679483428945/wormhole.png?ex=682f23ea&is=682dd26a&hm=5e53b42ab86e289d96573be5fe58b38a3d96436ae93fc9860a643c315a9bdd0d&)
+![Purple Wormhole Banner](https://media.discordapp.net/attachments/1249131937033879683/1374556679483428945/wormhole.png?ex=6842ea6a&is=684198ea&hm=e92ae8500e98803b09242d77dd4c659c8fb11e50eb73de406afbfa73492fba8e&=&format=webp&quality=lossless&width=1376&height=917)
 
 <sub>✨ README with a cosmic and purple touch – because the programming universe is infinite! 🚀🟣</sub>
